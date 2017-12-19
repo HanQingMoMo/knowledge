@@ -9,3 +9,7 @@ http://www.cnblogs.com/xdp-gacl/p/3777987.html
 http://www.cnblogs.com/jqyp/archive/2012/03/29/2423112.html
 http://blog.csdn.net/liujiahan629629/article/details/18013523
 http://www.infoq.com/cn/articles/cf-java-reflection-dynamic-proxy
+
+##### 注解
+
+http://blog.csdn.net/javazejian/article/details/71860633
