@@ -13,3 +13,9 @@ http://www.infoq.com/cn/articles/cf-java-reflection-dynamic-proxy
 ##### 注解
 
 http://blog.csdn.net/javazejian/article/details/71860633
+
+##### 泛型
+
+https://segmentfault.com/a/1190000002646193
+http://www.runoob.com/java/java-generics.html
+https://www.tuicool.com/articles/by2euae
