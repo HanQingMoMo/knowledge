@@ -19,3 +19,7 @@ http://blog.csdn.net/javazejian/article/details/71860633
 https://segmentfault.com/a/1190000002646193
 http://www.runoob.com/java/java-generics.html
 https://www.tuicool.com/articles/by2euae
+
+##### java8新特性(lambda表达式 函数式接口)
+
+http://www.cnblogs.com/seaspring/p/6187767.html
