@@ -23,3 +23,12 @@ https://www.tuicool.com/articles/by2euae
 ##### java8新特性(lambda表达式 函数式接口)
 
 http://www.cnblogs.com/seaspring/p/6187767.html
+
+##### 异步 CompletableFuture
+
+http://www.jianshu.com/p/6f3ee90ab7d3
+
+##### 枚举 Enum
+
+http://blog.csdn.net/ishallwin/article/details/9440251
+https://www.ibm.com/developerworks/cn/java/j-lo-enum/index.html
